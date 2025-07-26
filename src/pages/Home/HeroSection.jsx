@@ -1,9 +1,9 @@
 export default function HeroSection() {
   return(
     <section id= "heroSection" className="hero--section">
-      <div classname= "hero--section--content--box">
-        <div clasname= "hero--section--content">
-          <p className="section--title">Hey,I,am Pavan</p>
+      <div className= "hero--section--content--box">
+        <div className= "hero--section--content">
+          <p className="section--title">Hey, I'm Pavan</p>
           <h1 className="hero--section--title">
              <span className="hero--section--title--color">
                 Full Stack 
@@ -21,7 +21,7 @@ export default function HeroSection() {
             Get In Touch
           </button>
       </div>
-      <div clasname="hero--section--img">
+      <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
 
       </div>
