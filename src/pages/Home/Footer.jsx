@@ -159,7 +159,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Owned by Pavan</p>
+        <p className="footer--content">owned by Pavan</p>
         <div className="footer--social--icon">
           <ul>
             <li>

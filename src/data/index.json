@@ -5,25 +5,25 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Crafting fast, responsive UIs with React, Tailwind, and modern JavaScript to deliver seamless user experiences."
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Building secure, scalable APIs with Node.js, Express, and MongoDB for high-performance web applications."
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
         "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Designing clean, user-first interfaces with Figma—focused on clarity, usability, flow, and emotion."
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
         "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Creating pixel-perfect, no-code websites with Webflow—optimized for performance and SEO."
       }
     ],
     "portfolio": [
