@@ -12,9 +12,9 @@ export default function HeroSection() {
                 Developer
           </h1>
                <p className="hero--section--description">
-                I am a Full Stack Developer with a passion for building
+                Building full-stack applications with Java, Spring Boot, and React.
                 <br />
-                 web applications that provide seamless user experiences.
+                 I turn ideas into fast, reliable, and user-friendly solutions.
                </p>
         </div>
           <button className="btn btn-primary">
